@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+all_medicine_pages/
+product_list_json_pages/
+platinumrx_healthproducts/all_medicine_pages/
+platinumrx_healthproducts/product_list_json_pages/
